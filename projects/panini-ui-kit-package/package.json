@@ -1,0 +1,18 @@
+{
+    "name": "panini-ui-kit",
+    "version": "16.0.0",
+    "description": "Panini UI Kit",
+    "author": "M0o4",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/M0o4/panini-ui-kit.git"
+    },
+    "peerDependencies": {
+        "@angular/common": "^16.2.0",
+        "@angular/core": "^16.2.0"
+    },
+    "dependencies": {
+        "tslib": "^2.3.0"
+    },
+    "sideEffects": false
+}
